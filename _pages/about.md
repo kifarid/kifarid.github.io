@@ -9,4 +9,3 @@ redirect_from:
 ---
 
 Hi, I am a Master's student in Computer Science at Freiburg University.
-
