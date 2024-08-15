@@ -60,5 +60,7 @@ Service and leadership
 
 You can download a PDF copy of my CV [here](/files/Farid_Karim_CV_phd.pdf).
 
-<embed src="/files/Farid_Karim_CV_phd.pdf" type="application/pdf" width="100%" height="600px" />
+<object data="/files/Farid_Karim_CV_phd.pdf" type="application/pdf" width="100%" height="600px">
+    <p>Your browser does not support PDFs. <a href="/files/Farid_Karim_CV_phd.pdf">Download the PDF</a>.</p>
+</object>
 
