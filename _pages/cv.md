@@ -58,9 +58,10 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
 
-You can download a PDF copy of my CV [here](/files/Farid_Karim_CV_phd.pdf).
+<p>You can download a PDF copy of my CV <a href="/files/Farid_Karim_CV_phd.pdf">here</a>.</p>
 
-<object data="/files/Farid_Karim_CV_phd.pdf" type="application/pdf" width="100%" height="600px">
+<iframe src="/files/Farid_Karim_CV_phd.pdf" width="100%" height="300px">
     <p>Your browser does not support PDFs. <a href="/files/Farid_Karim_CV_phd.pdf">Download the PDF</a>.</p>
-</object>
+</iframe>
+
 
