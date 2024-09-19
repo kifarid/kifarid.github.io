@@ -21,4 +21,8 @@ Outside of research, I enjoy reading, the beach, basketball, weight lifting, kit
 
 <!-- adding a news section -->
 ## News
-- **2024-07-01**: Excited to join the [ELLIS](https://ellis.eu/) PhD program at the [Albert-Ludwigs-Universität Freiburg](https://www.uni-freiburg.de/).
+
+- **2024-10** Awarded the Wolfgang-Gentner Nachwuchsförderpreis 2024 for my master thesis on "Diffusion Models for RNA and Complexes Folding".
+- **2024-09**: Our work on "Latent Diffusion Counterfactual Explanations" has been accepted at GCPR 2024.
+- **2024-08**: Our Work on contextual world models under the title "Dreaming of Many Worlds: Learning Contextual World Models Aids Zero-Shot Generalization" has been presented at the first Reinfocement Learning Conference (RLC) 2024.
+- **2024-07**: Excited to join the [ELLIS](https://ellis.eu/) PhD program at the [Albert-Ludwigs-Universität Freiburg](https://www.uni-freiburg.de/). I will be advised by [Prof. Thomas Brox](https://lmb.informatik.uni-freiburg.de/people/brox/index.en.html) working on veridical world models.
