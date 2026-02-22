@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I am currently pursuing my PhD under [ELLIS](https://ellis.eu/) at the [Albert-Ludwigs-Universität Freiburg](https://www.uni-freiburg.de/) advised by [Prof. Thomas Brox](https://lmb.informatik.uni-freiburg.de/people/brox/index.en.html). My research is centered on rethinking and advancing our understanding of intelligence, with the goal of aligning AI agents with this broader vision towards intelligence beyond imitation. 
+Hi, I am currently pursuing my PhD under [ELLIS](https://ellis.eu/) at the [Albert-Ludwigs-Universität Freiburg](https://www.uni-freiburg.de/), advised by [Prof. Thomas Brox](https://lmb.informatik.uni-freiburg.de/people/brox/index.en.html) and co-supervised by [Cordelia Schmid](https://cordeliaschmid.github.io/). My research is centered on rethinking and advancing our understanding of intelligence, with the goal of aligning AI agents with this broader vision towards intelligence beyond imitation.
 
 I focus equally on abstract theoretical challenges and their practical implications, particularly in the domains of reinforcement learning, world models, and representation learning, with an emphasis on their application in life sciences and embodied AI. 
 
